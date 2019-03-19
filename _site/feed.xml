@@ -1,4 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-09T17:22:52+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">TopJavaTutorial</title><subtitle>本站将分享好的Java教程与学习记录</subtitle><author><name>true</name></author><entry><title type="html">JVM-架构</title><link href="http://localhost:4000/2019/03/09/JVM-architecture.html" rel="alternate" type="text/html" title="JVM-架构" /><published>2019-03-09T00:00:00+08:00</published><updated>2019-03-09T00:00:00+08:00</updated><id>http://localhost:4000/2019/03/09/JVM-architecture</id><content type="html" xml:base="http://localhost:4000/2019/03/09/JVM-architecture.html">&lt;h1 id=&quot;jvm架构详解&quot;&gt;jvm架构详解&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-19T10:19:01+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">TopJavaTutorial</title><subtitle>本站将分享好的Java教程与学习记录</subtitle><author><name>true</name></author><entry><title type="html">long term plan</title><link href="http://localhost:4000/2019/03/19/long-plan.html" rel="alternate" type="text/html" title="long term plan" /><published>2019-03-19T00:00:00+08:00</published><updated>2019-03-19T00:00:00+08:00</updated><id>http://localhost:4000/2019/03/19/long-plan</id><content type="html" xml:base="http://localhost:4000/2019/03/19/long-plan.html">&lt;h1 id=&quot;本文将持续更新列出本人学习过程的plan为了更好的学习知识一个合理的plan是必不可少的&quot;&gt;本文将持续更新,列出本人学习过程的plan.为了更好的学习知识,一个合理的plan是必不可少的。&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;是否完成&lt;/th&gt;
+      &lt;th&gt;开始日期&lt;/th&gt;
+      &lt;th&gt;结束日期&lt;/th&gt;
+      &lt;th&gt;任务简要描述&lt;/th&gt;
+      &lt;th&gt;成果&lt;/th&gt;
+      &lt;th&gt;学习资料&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;- [ ]&lt;/td&gt;
+      &lt;td&gt;2019/03/19&lt;/td&gt;
+      &lt;td&gt;2019/05/01&lt;/td&gt;
+      &lt;td&gt;完成cs50&lt;/td&gt;
+      &lt;td&gt;看完lecture,完成课后练习&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://www.edx.org/&quot;&gt;edx&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;- [ ]&lt;/td&gt;
+      &lt;td&gt;2019/03/19&lt;/td&gt;
+      &lt;td&gt;2019/03/24&lt;/td&gt;
+      &lt;td&gt;学习JVM&lt;/td&gt;
+      &lt;td&gt;温习JVM文章,手撕JVM面试问题,学会使用各种工具&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1VGKc9amyLc4IhlPlVTlIG-_brbPpSRhDAPFlaMOWn20/edit#gid=0&quot;&gt;java roadmap&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name>张财</name></author><category term="plan" /><summary type="html">本文将持续更新,列出本人学习过程的plan.为了更好的学习知识,一个合理的plan是必不可少的。</summary></entry><entry><title type="html">JVM-架构</title><link href="http://localhost:4000/2019/03/09/JVM-architecture.html" rel="alternate" type="text/html" title="JVM-架构" /><published>2019-03-09T00:00:00+08:00</published><updated>2019-03-09T00:00:00+08:00</updated><id>http://localhost:4000/2019/03/09/JVM-architecture</id><content type="html" xml:base="http://localhost:4000/2019/03/09/JVM-architecture.html">&lt;h1 id=&quot;jvm架构详解&quot;&gt;jvm架构详解&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&quot;https://dzone.com/articles/jvm-architecture-explained&quot;&gt;jvm架构详解链接&lt;/a&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;jvm常见面试问题&quot;&gt;JVM常见面试问题&lt;/h1&gt;
